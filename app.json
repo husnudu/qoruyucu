@@ -9,7 +9,7 @@
       "alita",
       "alita_robot"
    ],
-   "repository": "https://github.com/Texnocom/Rose",
+   "repository": "https://github.com/husnudu/qoruyucu",
    "stack": "container",
    "env": {
       "STRING_SESSION": {
